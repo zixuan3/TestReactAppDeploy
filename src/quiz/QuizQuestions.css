@@ -1,0 +1,25 @@
+.anniu {
+    font-size: 300%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 1%;
+    font-weight: bold;
+}
+
+#skip {
+    color: darkgoldenrod;
+}
+
+#quit {
+    color:crimson;
+}
+
+#back {
+    color: darkseagreen;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

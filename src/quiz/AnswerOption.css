@@ -1,0 +1,10 @@
+.answerOption {
+    font-size: 300%;
+    padding: 1.5rem 2.5rem 0;
+    color: cornflowerblue;
+}
+
+.radio {
+    width:3em;
+    height:3em;
+}

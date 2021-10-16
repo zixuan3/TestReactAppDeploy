@@ -1,0 +1,5 @@
+#GalleryWrapper {
+    background-image: url("https://w.wallhaven.cc/full/45/wallhaven-45q6l1.jpg");
+    background-color: darkcyan;
+    grid-area: 2 / 2 / 4 / 3;
+}
